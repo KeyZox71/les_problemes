@@ -9,4 +9,4 @@ Ingest prévu :
 - app android from scratch en Kotlin (parce que pourquoi pas et que j'ai envie d'apprendre le Kotlin)
 
 ## contrib
-Si vous voulez faire des PR allez-y
+Si vous voulez faire des PR allez-y ([norm pogit](https://github.com/y-syo/pogit/wiki/Commit-guideline) pour les commit svp)

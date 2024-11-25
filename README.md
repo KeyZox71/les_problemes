@@ -3,6 +3,7 @@ Service de repporting pour problèmes technique avec plusieur moyen d'ingest (av
 
 Ingest prévu :
 - extension gnome (priorité)
+- outil cli (parce que fuck les interface graphique vive le TTY)
 - bot discord (peux-être)
 - formulaire en ligne (pourquoi pas 🤷)
 - app android from scratch en Kotlin (parce que pourquoi pas et que j'ai envie d'apprendre le Kotlin)
